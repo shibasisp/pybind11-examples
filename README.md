@@ -7,5 +7,5 @@ Examples of using pybind11
 
 **Requirements**
 1. [pybind11](https://github.com/pybind/pybind11)
-2. python(tested with 2.7 but should work with 3.x as well)
-3. A C++ compiler for your platform(g++ or cmake or MinGW).
+2. [python](www.python.org)(tested with 2.7 but should work with 3.x as well)
+3. A C++ compiler for your platform(g++ or MinGW).
