@@ -6,7 +6,7 @@ pybind11_add_module(hello 01-HelloWorld/hello.cpp)
 pybind11_add_module(classes 02-ExposingClasses/classes.cpp)
 pybind11_add_module(ctor 03-Constructors/ctor.cpp)
 pybind11_add_module(member 04-ClassMembers/member.cpp)
-pybind11_add_module(lambdamember 05-ClassMemberswithLamdaFunction/lambdamember.cpp)
+pybind11_add_module(lambdamember 05-ClassMemberswithLambdaFunction/lambdamember.cpp)
 
 
 
